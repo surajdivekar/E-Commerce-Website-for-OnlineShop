@@ -1,0 +1,17 @@
+.signup {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 80vh;
+  flex-direction: column;
+}
+
+.card {
+  align-content: center;
+  margin: auto;
+  align-items: center;
+  width: 500px;
+}
+div {
+  margin-bottom: 6px;
+}
